@@ -23,3 +23,5 @@
 
 foriOS https://apps.apple.com/us/app/smartrade-%E3%82%B9%E3%83%9E%E3%83%88%E3%83%AC/id6670782061
 forAndroid https://play.google.com/store/apps/details?id=com.studiomk.aidore
+
+※コードはFlutterのプロジェクトからlib/,pubscpec.yamlのみ公開しています.
